@@ -5,7 +5,7 @@ function Footer() {
     <>
       <div>
         <hr />
-      <footer className="footer footer-center shadow-md  text-black p-8 my-20">
+      <footer className="footer footer-center shadow-md  text-black px-8 py-4 my-20">
   <aside>
    
     <h1 className="font-bold text-2xl ">

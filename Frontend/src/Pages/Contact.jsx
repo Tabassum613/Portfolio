@@ -1,12 +1,12 @@
 //import React from 'react'
+import ContactForm from "../components/ContactForm"
 import Footer from "../components/Footer"
 import Navbar from "../components/Navbar"
 function Contact() {
   return (
     <>
       <Navbar/>
-
-      <h6>hhhhhhhhhhkkkk</h6>
+      <ContactForm/>
       <Footer/>
     </>
   )
